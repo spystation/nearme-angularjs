@@ -1,3 +1,5 @@
+// Added in Part 2
+
 var geodataToMarkers = function(geodata) {
   var places = geodata.query.geosearch;
   var markers = [];
